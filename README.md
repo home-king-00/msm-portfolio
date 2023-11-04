@@ -132,6 +132,11 @@
     - 데이터 베이스
       - MSSQL
       - PostgreSQL
+    - 협업 프로그램
+      - Subversion
+      - Adobe XD
+      - Zeplin
+      - Adobe Photoshop
 2. 개발 업무
     - 자사 MES 웹 개발
     - 자동차 국내 기업 MES 웹 유지보수
