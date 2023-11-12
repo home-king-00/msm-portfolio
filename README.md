@@ -93,6 +93,8 @@
       - Asana
       - Postman
       - Adobe XD
+    - 서버
+      - AWS EC2
 
 - [프로젝트 보기](https://www.fruiting.co.kr/)
 
@@ -116,6 +118,8 @@
       - MYSQL
     - 협업 프로그램
       - Adobe photoshop
+    - 서버
+      - CAFE24 웹 호스팅
 
 - [프로젝트 보기](https://www.petforest.co.kr/)
 
