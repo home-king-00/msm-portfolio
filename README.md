@@ -16,8 +16,8 @@
 > 안녕하세요! ***"매일 새로운 개발 하며 도전하는"*** 개발자 문성민입니다.
 > 고등학교에 다닐 때부터 웹 개발을 시작하여 꾸준히 도전하며 새로운 개발 언어 공부하는 걸 좋아하여 ***"어떠한 환경에서도 적응"*** 할 수 있습니다.   
 
-- 프론트엔드 기술 역량 : React, Vue.js, Next.js, Javascript(ES6), Typescript, Bootstrap
-- 백엔드 기술 역량 : Spring, JSP, Express, PHP
+- 프론트엔드 기술 역량 : React, Vue.js(Composition API), Next.js, Styled Components, Javascript(ES6), Typescript, Jquery, Bootstrap
+- 백엔드 기술 역량 : JAVA, Spring, MYBATIS, JSP, Express, PHP
 - 데이터베이스 기술 역량 : MYSQL, MSSQL, PostgreSQL, MongoDB
 
 ---
@@ -93,6 +93,8 @@
       - Asana
       - Postman
       - Adobe XD
+
+- [프로젝트 보기](https://www.fruiting.co.kr/)
 
 ---
 
